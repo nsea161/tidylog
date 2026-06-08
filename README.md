@@ -1,2 +1,2 @@
 # tidylog ns
-Project synchronized with GitHub.
+i made a change directly 
